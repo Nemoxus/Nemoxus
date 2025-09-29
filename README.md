@@ -21,10 +21,10 @@ I love building robust backend systems, exploring new tech, and applying analyti
 
 ## 🚀 Featured Projects
 
-- **[Rape Case Analysis](#)** — Leveraging ML for social impact *(details coming soon)*
-- **[PitchScope](https://github.com/Nemoxus/pitchscope)** — Music analysis & visualization
-- **Sushruta** — Healthcare analytics platform *(in progress)*
-- **[VMapps](#)** — Web mapping & assistive technology for elderly/children
+- **[Rape Case Analysis](#)** — Leveraging ML for social impact to do case study on Indian rape cases
+- **[PitchScope](https://github.com/Nemoxus/pitchscope)** — AI Market analysis & visualization tool for investors and VCs
+- **Sushruta** — AI Healthcare analytics platform
+- **[VMaps](#)** — Web mapping & assistive technology for elderly/children
 - **[Heart Disease Prediction Model](#)** — ML-powered health tool with 0.99 accuracy
 - **[Notably](#)** — Minimal, open-source note-taking app
 - …and many more!  
